@@ -1,2 +1,3 @@
 # sensor-placement
-Code and tex for Matt's sensor placement paper
+
+Code for "Observability-based sensor placement improves contaminant tracing in river networks"
